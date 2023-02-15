@@ -6,6 +6,12 @@ Neste código você pode jogar manualmente como o jogo original ou uma IA pode j
 neste projeto foi criada a IA e implementada no jogo.
 Foi utilizado a IA NEAT( Neural Evolution Augmenting Topology)
 
+------------------------------------------------------------------------------------------
+|                             INSTRUÇÕES DE JOGO                                         |
+|--------------------------------COMANDOS-------------------------------------------------
+| PULAR = (SPACE)    DIMINUIR VOLUME DA MÚSICA -> (-)   AUMENTAR VOLUME DA MÚSICA -> (+) |
+------------------------------------------------------------------------------------------
+
 
 ## Referência
 
