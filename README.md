@@ -11,7 +11,7 @@ Foi utilizado a IA NEAT( Neural Evolution Augmenting Topology)
 
  - [Awesome Readme Templates](https://awesomeopensource.com/project/elangosundar/awesome-README-templates)
  - [Awesome README](https://github.com/matiassingers/awesome-readme)
- - [Canal idealizador do projeto ](https://www.youtube.com/@HashtagProgramacao)
+ - [Referências ](https://www.youtube.com/@HashtagProgramacao)
 
 
 ## 🚀 Sobre mim:
